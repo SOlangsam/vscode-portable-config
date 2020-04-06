@@ -1,0 +1,19 @@
+{       
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    
+    "git.enabled": true,
+    "git.path": "E:\\VSCode\\PortableGit\\cmd\\git.exe",    
+    "terminal.integrated.env.windows": {
+        "PATH": "$env:path;E:\\VSCode\\PortableGit\\bin\\;C:\\Windows\\System32\\OpenSSH"
+    },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "todo-tree.tree.showScanModeButton": false,
+    "rest-client.enableTelemetry": false,
+    "gitlens.advanced.telemetry.enabled": false, 
+    
+    "remote.SSH.remotePlatform": {
+        "10.10.10.10": "windows"
+    } 
+}
